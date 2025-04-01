@@ -9,13 +9,13 @@ D:\Unity Installs\6000.0.42f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker0
+AssetImportWorker3
 -projectPath
 D:/GitHub/RPG/RBG-Orlenko-Martirosyan
 -logFile
-Logs/AssetImportWorker0.log
+Logs/AssetImportWorker3.log
 -srvPort
-58677
+60184
 -job-worker-count
 5
 -background-job-worker-count
@@ -59,22 +59,20 @@ D:/GitHub/RPG/RBG-Orlenko-Martirosyan
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [14700]  Target information:
+Player connection [25832]  Target information:
 
-Player connection [14700]  * "[IP] 192.168.0.120 [Port] 0 [Flags] 2 [Guid] 3649850580 [EditorId] 3649850580 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [25832]  * "[IP] 192.168.0.120 [Port] 0 [Flags] 2 [Guid] 1907868737 [EditorId] 1907868737 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [14700]  * "[IP] 192.168.241.1 [Port] 0 [Flags] 2 [Guid] 3649850580 [EditorId] 3649850580 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [25832]  * "[IP] 192.168.241.1 [Port] 0 [Flags] 2 [Guid] 1907868737 [EditorId] 1907868737 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [14700]  * "[IP] 192.168.112.1 [Port] 0 [Flags] 2 [Guid] 3649850580 [EditorId] 3649850580 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [25832]  * "[IP] 192.168.112.1 [Port] 0 [Flags] 2 [Guid] 1907868737 [EditorId] 1907868737 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [14700]  * "[IP] 26.1.46.39 [Port] 0 [Flags] 2 [Guid] 3649850580 [EditorId] 3649850580 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [25832]  * "[IP] 26.1.46.39 [Port] 0 [Flags] 2 [Guid] 1907868737 [EditorId] 1907868737 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [14700]  * "[IP] 25.7.42.130 [Port] 0 [Flags] 2 [Guid] 3649850580 [EditorId] 3649850580 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [25832]  * "[IP] 172.27.105.60 [Port] 0 [Flags] 2 [Guid] 1907868737 [EditorId] 1907868737 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [14700]  * "[IP] 172.27.105.60 [Port] 0 [Flags] 2 [Guid] 3649850580 [EditorId] 3649850580 [Version] 1048832 [Id] WindowsEditor(7,exzzzet) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [14700] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [14700] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [25832] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [25832] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -86,7 +84,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.42f1 (feb9a7235030)
 [Subsystems] Discovering subsystems at path D:/Unity Installs/6000.0.42f1/Editor/Data/Resources/UnitySubsystems
@@ -102,47 +100,47 @@ Initialize mono
 Mono path[0] = 'D:/Unity Installs/6000.0.42f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity Installs/6000.0.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Unity Installs/6000.0.42f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity Installs/6000.0.42f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Unity Installs/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: D:/Unity Installs/6000.0.42f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.005263 seconds.
-- Loaded All Assemblies, in  0.537 seconds
+Registered in 0.002791 seconds.
+- Loaded All Assemblies, in  0.392 seconds
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.417 seconds
-Domain Reload Profiling: 954ms
-	BeginReloadAssembly (158ms)
+- Finished resetting the current domain, in  0.335 seconds
+Domain Reload Profiling: 727ms
+	BeginReloadAssembly (143ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (50ms)
-	RebuildNativeTypeToScriptingClass (20ms)
-	initialDomainReloadingComplete (67ms)
-	LoadAllAssembliesAndSetupDomain (242ms)
-		LoadAssemblies (158ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (143ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (237ms)
-			TypeCache.Refresh (235ms)
-				TypeCache.ScanAssembly (217ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (139ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (417ms)
+	FinalizeReload (335ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (365ms)
+		SetupLoadedEditorAssemblies (297ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (64ms)
+			InitializePlatformSupportModulesInManaged (55ms)
 			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (65ms)
-			ProcessInitializeOnLoadAttributes (164ms)
-			ProcessInitializeOnLoadMethodAttributes (66ms)
+			BeforeProcessingInitializeOnLoad (51ms)
+			ProcessInitializeOnLoadAttributes (137ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -151,58 +149,70 @@ Domain Reload Profiling: 954ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.726 seconds
-Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.634 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.558 seconds
-Domain Reload Profiling: 1284ms
-	BeginReloadAssembly (220ms)
+- Finished resetting the current domain, in  0.486 seconds
+Domain Reload Profiling: 1120ms
+	BeginReloadAssembly (192ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (8ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (37ms)
-	RebuildCommonClasses (40ms)
-	RebuildNativeTypeToScriptingClass (14ms)
-	initialDomainReloadingComplete (40ms)
-	LoadAllAssembliesAndSetupDomain (412ms)
-		LoadAssemblies (351ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (341ms)
+		LoadAssemblies (290ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (204ms)
-			TypeCache.Refresh (168ms)
-				TypeCache.ScanAssembly (150ms)
-			BuildScriptInfoCaches (28ms)
-			ResolveRequiredComponents (4ms)
-	FinalizeReload (558ms)
+		AnalyzeDomain (172ms)
+			TypeCache.Refresh (138ms)
+				TypeCache.ScanAssembly (126ms)
+			BuildScriptInfoCaches (25ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (487ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (430ms)
+		SetupLoadedEditorAssemblies (377ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (15ms)
+			InitializePlatformSupportModulesInManaged (13ms)
 			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (79ms)
-			ProcessInitializeOnLoadAttributes (302ms)
-			ProcessInitializeOnLoadMethodAttributes (28ms)
-			AfterProcessingInitializeOnLoad (2ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (265ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (1ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 1.64 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 3283 unused Assets / (391.0 KB). Loaded Objects now: 3786.
-Memory consumption went from 85.5 MB to 85.1 MB.
-Total: 9.822200 ms (FindLiveObjects: 0.499300 ms CreateObjectMapping: 0.681600 ms MarkObjects: 7.303900 ms  DeleteObjects: 1.335900 ms)
+Unloading 3283 unused Assets / (1.1 MB). Loaded Objects now: 3786.
+Memory consumption went from 86.1 MB to 85.0 MB.
+Total: 7.291000 ms (FindLiveObjects: 0.340500 ms CreateObjectMapping: 0.402200 ms MarkObjects: 4.972600 ms  DeleteObjects: 1.574100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 34875.154653 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(db11f7a9cef306a47851581249ef6f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(db11f7a9cef306a47851581249ef6f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f8635af454e5f1ca8c73252b72a68f2') in 0.0407537 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+  Time since last request: 83624.859607 seconds.
+  path: Assets/RPGPP_LT/Models/Props/rpgpp_lt_bathtub_wood_01.fbx
+  artifactKey: Guid(1a8449922d22bae4791e0335226fa1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Models/Props/rpgpp_lt_bathtub_wood_01.fbx using Guid(1a8449922d22bae4791e0335226fa1aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f950e47548b9cddcfe5cebe61cad9c08') in 0.1854514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/RPGPP_LT/Models/Props/rpgpp_lt_broom_01.fbx
+  artifactKey: Guid(752014a26efd03145b74d57634ef9245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGPP_LT/Models/Props/rpgpp_lt_broom_01.fbx using Guid(752014a26efd03145b74d57634ef9245) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5697f612c16b7c2a40c94ac9841339f2') in 0.0272428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
