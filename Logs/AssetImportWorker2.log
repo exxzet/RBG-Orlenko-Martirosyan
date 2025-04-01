@@ -444,3 +444,63 @@ Received Import Request.
 Start importing Assets/Location using Guid(6dd8fadc52f20964bb1c1575c0793fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9382b1917e23bb8b5963e622b2c04a73') in 0.0008719 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Import Request.
+  Time since last request: 1287.289489 seconds.
+  path: Assets/Location
+  artifactKey: Guid(6dd8fadc52f20964bb1c1575c0793fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Location using Guid(6dd8fadc52f20964bb1c1575c0793fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98fee906a4539469b4eec4cde51a976a') in 0.0007281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 7417.047363 seconds.
+  path: Assets/3D Stylized Goblin(animations+)
+  artifactKey: Guid(94a0d264cb2db094b9f32e19626eda3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Stylized Goblin(animations+) using Guid(94a0d264cb2db094b9f32e19626eda3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c6e89e1690d1f9617c437bc492c7cf3') in 0.0050842 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.287861 seconds.
+  path: Assets/3D Stylized Goblin(animations+)/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Stylized Goblin(animations+)/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ebc56a425f574277bef41ed2dd408776') in 0.0009208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.999881 seconds.
+  path: Assets/3D Stylized Goblin(animations+)/controlers
+  artifactKey: Guid(054c6205bc9c23843bafc096e7214a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Stylized Goblin(animations+)/controlers using Guid(054c6205bc9c23843bafc096e7214a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3031d4258a150891cc1d331102889395') in 0.0008268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.216087 seconds.
+  path: Assets/3D Stylized Goblin(animations+)/controlers/Attack1Attack1.fbx
+  artifactKey: Guid(4320f7bd7465cef478f6277e058e2aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Stylized Goblin(animations+)/controlers/Attack1Attack1.fbx using Guid(4320f7bd7465cef478f6277e058e2aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cbaad69e342789e67f430d7cb735e96f') in 0.8054353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 490
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/3D Stylized Goblin(animations+)/controlers/damagedamage.fbx
+  artifactKey: Guid(66eb114be00ca4341bfc99d907630b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Stylized Goblin(animations+)/controlers/damagedamage.fbx using Guid(66eb114be00ca4341bfc99d907630b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1933840972e9674e03967c96be437edb') in 0.1490491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 490
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/3D Stylized Goblin(animations+)/controlers/deathdeath.fbx
+  artifactKey: Guid(39d8b38a9e2f3d1408f44a84a2ec4796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Stylized Goblin(animations+)/controlers/deathdeath.fbx using Guid(39d8b38a9e2f3d1408f44a84a2ec4796) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c20cf368bc0c2a0c2fb92c70a102c24') in 0.1421977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 490
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
